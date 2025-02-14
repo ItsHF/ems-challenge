@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HF\\source\\repos\\ems-challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets._index\\route.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\routes\\timesheets._index\\route.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets._index\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\routes\\timesheets._index\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees._index\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\routes\\employees._index\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees.$employeeId._index\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\routes\\employees.$employeeId._index\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees.$employeeId._index\\route.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\routes\\employees.$employeeId._index\\route.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets.new\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\routes\\timesheets.new\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees._index\\route.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\routes\\employees._index\\route.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets.$timesheetId._index\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\routes\\timesheets.$timesheetId._index\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets.$timesheetId._index\\route.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\routes\\timesheets.$timesheetId._index\\route.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees.new\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\routes\\employees.new\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees.new\\route.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\routes\\employees.new\\route.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets.new\\route.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\routes\\timesheets.new\\route.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\root.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\root.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\react-router.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:react-router.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\_index\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\routes\\_index\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\db\\getDB.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\db\\getDB.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "route.server.ts",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets._index\\route.server.ts",
+              "RelativeDocumentMoniker": "app\\routes\\timesheets._index\\route.server.ts",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets._index\\route.server.ts",
+              "RelativeToolTip": "app\\routes\\timesheets._index\\route.server.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-14T15:41:25.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "route.tsx",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets.new\\route.tsx",
+              "RelativeDocumentMoniker": "app\\routes\\timesheets.new\\route.tsx",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets.new\\route.tsx",
+              "RelativeToolTip": "app\\routes\\timesheets.new\\route.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-14T15:32:16.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "route.tsx",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets.$timesheetId._index\\route.tsx",
+              "RelativeDocumentMoniker": "app\\routes\\timesheets.$timesheetId._index\\route.tsx",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets.$timesheetId._index\\route.tsx",
+              "RelativeToolTip": "app\\routes\\timesheets.$timesheetId._index\\route.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-14T15:31:44.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "route.server.ts",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets.$timesheetId._index\\route.server.ts",
+              "RelativeDocumentMoniker": "app\\routes\\timesheets.$timesheetId._index\\route.server.ts",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets.$timesheetId._index\\route.server.ts",
+              "RelativeToolTip": "app\\routes\\timesheets.$timesheetId._index\\route.server.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-14T15:31:44.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "route.server.ts",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees.new\\route.server.ts",
+              "RelativeDocumentMoniker": "app\\routes\\employees.new\\route.server.ts",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees.new\\route.server.ts",
+              "RelativeToolTip": "app\\routes\\employees.new\\route.server.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-14T15:30:17.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "route.server.ts",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees._index\\route.server.ts",
+              "RelativeDocumentMoniker": "app\\routes\\employees._index\\route.server.ts",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees._index\\route.server.ts",
+              "RelativeToolTip": "app\\routes\\employees._index\\route.server.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-14T13:27:28.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "route.server.ts",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets.new\\route.server.ts",
+              "RelativeDocumentMoniker": "app\\routes\\timesheets.new\\route.server.ts",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets.new\\route.server.ts",
+              "RelativeToolTip": "app\\routes\\timesheets.new\\route.server.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-13T22:39:55.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "react-router.config.ts",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\react-router.config.ts",
+              "RelativeDocumentMoniker": "react-router.config.ts",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\react-router.config.ts",
+              "RelativeToolTip": "react-router.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-13T22:38:39.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "route.tsx",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets._index\\route.tsx",
+              "RelativeDocumentMoniker": "app\\routes\\timesheets._index\\route.tsx",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\timesheets._index\\route.tsx",
+              "RelativeToolTip": "app\\routes\\timesheets._index\\route.tsx",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-13T22:38:30.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "route.tsx",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\_index\\route.tsx",
+              "RelativeDocumentMoniker": "app\\routes\\_index\\route.tsx",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\_index\\route.tsx",
+              "RelativeToolTip": "app\\routes\\_index\\route.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-13T22:38:27.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\app.css",
+              "RelativeDocumentMoniker": "app\\app.css",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\app.css",
+              "RelativeToolTip": "app\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-13T22:38:11.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "routes.ts",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes.ts",
+              "RelativeDocumentMoniker": "app\\routes.ts",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes.ts",
+              "RelativeToolTip": "app\\routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-13T22:38:08.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "route.server.ts",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees.$employeeId._index\\route.server.ts",
+              "RelativeDocumentMoniker": "app\\routes\\employees.$employeeId._index\\route.server.ts",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees.$employeeId._index\\route.server.ts",
+              "RelativeToolTip": "app\\routes\\employees.$employeeId._index\\route.server.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-13T22:14:46.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "getDB.ts",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\db\\getDB.ts",
+              "RelativeDocumentMoniker": "app\\db\\getDB.ts",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\db\\getDB.ts",
+              "RelativeToolTip": "app\\db\\getDB.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-13T21:54:04.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "root.tsx",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\root.tsx",
+              "RelativeDocumentMoniker": "app\\root.tsx",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\root.tsx",
+              "RelativeToolTip": "app\\root.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-13T21:42:33.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\vite.config.ts",
+              "RelativeDocumentMoniker": "vite.config.ts",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\vite.config.ts",
+              "RelativeToolTip": "vite.config.ts",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-13T20:34:16.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "route.tsx",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees.$employeeId._index\\route.tsx",
+              "RelativeDocumentMoniker": "app\\routes\\employees.$employeeId._index\\route.tsx",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees.$employeeId._index\\route.tsx",
+              "RelativeToolTip": "app\\routes\\employees.$employeeId._index\\route.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-13T20:30:12.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "route.tsx",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees.new\\route.tsx",
+              "RelativeDocumentMoniker": "app\\routes\\employees.new\\route.tsx",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees.new\\route.tsx",
+              "RelativeToolTip": "app\\routes\\employees.new\\route.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-13T20:30:10.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "route.tsx",
+              "DocumentMoniker": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees._index\\route.tsx",
+              "RelativeDocumentMoniker": "app\\routes\\employees._index\\route.tsx",
+              "ToolTip": "C:\\Users\\HF\\source\\repos\\ems-challenge\\app\\routes\\employees._index\\route.tsx",
+              "RelativeToolTip": "app\\routes\\employees._index\\route.tsx",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-13T20:23:44.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

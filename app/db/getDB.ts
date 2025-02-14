@@ -15,13 +15,13 @@ const dbConfig = yaml.load(fs.readFileSync(dbConfigPath, 'utf8'));
 export const PROJECT_ROOT_FOLDER_PATH = path.join(__dirname, "..");
 
 const {
-  'sqlite_path': sqlitePath,
+    'sqlite_path': sqlitePath,
 } = dbConfig as any;
 
 export const getDB = async () => {
-  const sqliteDB = await open({
-    filename: sqlitePath,
-    driver: sqlite3.Database,
-  });
-  return sqliteDB;
+    const sqliteDB = await open({
+        filename: sqlitePath,
+        driver: sqlite3.Database,
+    });
+    return sqliteDB;
 }

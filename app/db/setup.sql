@@ -1,33 +1,29 @@
--- This file contains the SQL schema, it drops all tables and recreates them
+-- Drop tables if they exist
+DROP TABLE IF EXISTS Employees;
+DROP TABLE IF EXISTS Timesheets;
 
-DROP TABLE IF EXISTS employees;
-DROP TABLE IF EXISTS timesheets;
-
--- To add a field to a table do
--- CREATE TABLE table_name (
---     id INTEGER PRIMARY KEY AUTOINCREMENT,
---     nullable_field TEXT,
---     non_nullable_field TEXT NOT NULL,
---     numeric_field INTEGER,
---     unique_field TEXT UNIQUE,
---     unique_non_nullable_field TEXT NOT NULL UNIQUE,
---     date_field DATE,
---     datetime_field DATETIME
--- );
-
--- Create employees table
-CREATE TABLE employees (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    full_name TEXT NULL
-    -- Rest of the fields
+-- Create Employees Table
+CREATE TABLE Employees (
+    Id INTEGER PRIMARY KEY,  -- Auto-increment primary key
+    Name TEXT NOT NULL,
+    Email TEXT NOT NULL,
+    PhoneNumber TEXT NOT NULL,
+    DateOfBirth TEXT NOT NULL,  -- Use TEXT to store ISO 8601 date format (YYYY-MM-DD)
+    JobTitle TEXT NOT NULL,
+    Department TEXT NOT NULL,
+    Salary REAL NOT NULL,  -- SQLite uses REAL for floating-point numbers
+    StartDate TEXT NOT NULL,  -- Store date as ISO 8601 string (YYYY-MM-DD)
+    EndDate TEXT NULL  -- Nullable EndDate
 );
 
--- Create timesheets table
-CREATE TABLE timesheets (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    -- Rest of the fields
-    start_time DATETIME NOT NULL,
-    end_time DATETIME NOT NULL,
-    employee_id INTEGER NOT NULL,
-    FOREIGN KEY (employee_id) REFERENCES employees(id)
+-- Create Timesheets Table
+CREATE TABLE Timesheets (
+    Id INTEGER PRIMARY KEY ,  -- Auto-increment primary key
+    EmployeeId INTEGER NOT NULL,  -- Foreign key reference to Employees
+    StartTime TEXT NOT NULL,  -- Store as ISO 8601 string (YYYY-MM-DD HH:MM:SS)
+    EndTime TEXT NOT NULL,  -- Store as ISO 8601 string (YYYY-MM-DD HH:MM:SS)
+    Summary TEXT NOT NULL,
+    FOREIGN KEY (EmployeeId) REFERENCES Employees(Id) ON DELETE CASCADE
 );
+
+

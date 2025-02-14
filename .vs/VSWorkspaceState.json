@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\routes",
+    "\\app\\routes\\employees.$employeeId._index",
+    "\\app\\routes\\timesheets.$timesheetId._index",
+    "\\app\\routes\\timesheets.new",
+    "\\app\\routes\\timesheets._index",
+    "\\app\\welcome",
+    "\\public",
+    "\\scripts"
+  ],
+  "PreviewInSolutionExplorer": false
+}
